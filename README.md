@@ -32,10 +32,15 @@ Abra o notebook Fraude_Transacoes_Bancarias.ipynb e siga as instruções para ca
 Estrutura do Projeto
 O projeto está estruturado da seguinte forma:
 ├── data/
+
 │   ├── transacoes.csv
+
 ├── notebooks/
+
 │   ├── Fraude_Transacoes_Bancarias.ipynb
+
 ├── README.md
+
 ├── requirements.txt
 
 
