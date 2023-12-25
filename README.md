@@ -52,7 +52,7 @@ Fique à vontade para contribuir para este projeto! Consulte o Guia de Contribui
 
 Autor
 Joel Felipe
-[Seu Perfil no GitHub](https://github.com/joel-felipe)
+[Meu Perfil no GitHub](https://github.com/joel-felipe)
 
 Licença
 Este projeto é licenciado sob a Licença MIT.
